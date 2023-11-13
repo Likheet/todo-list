@@ -126,6 +126,14 @@ ul li span:hover{
 #clear-button:hover {
     background-color: #d32f2f; /* Darker red */
 }
+#github-link {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+#github-link img {
+    width: 40px; /* Adjust as needed */
+}
 @media screen and (max-width: 350px) {
     .header {
         flex-direction: column;
