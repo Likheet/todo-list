@@ -132,7 +132,8 @@ ul li span:hover{
     right: 20px;
 }
 #github-link img {
-    width: 40px; /* Adjust as needed */
+    width: 45px; /* Adjust as needed */
+    border-radius: 5px;
 }
 @media screen and (max-width: 350px) {
     .header {
